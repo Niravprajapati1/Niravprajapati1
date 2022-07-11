@@ -4,7 +4,7 @@ __I am *Nirav Prajapati* from india. I am very much interested in contributing f
 
 ### My Skills 🚀
 
-![Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 
@@ -34,15 +34,11 @@ __I am *Nirav Prajapati* from india. I am very much interested in contributing f
 
 ### Stats 📊
 
-<p align="center"> 
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niravprajapati1&show_icons=true" alt="NiravPrajapati_stats" /> 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="aakarshteja_stats" />
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niravprajapati1&" alt="aakarshteja_stats"/>
-
-</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Aakarsh Teja Profile visits" /></p>
 
