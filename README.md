@@ -26,26 +26,29 @@ __I am *Nirav Prajapati* from india. I am very much interested in contributing f
 
 - 🏫  Want to learn more about cloud computing.
 
-- 📫 You can reach me at: <a href="mailto: niravprajapati97120@gmail.com">E-mail</a>
+- 📫 You can reach me at: <a href="mailto: niravprajapati97120@gmail.com">niravprajapati97120@gmail.com</a>
 
 ### Connect With Me 🤝🤝
 
-[<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Nirav97120)
+[<img src = "https://img.shields.io/badge/Nirav97120-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Nirav97120)
 
 ### Stats 📊
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niravprajapati1&show_icons=true" alt="NiravPrajapati_stats" /> 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="aakarshteja_stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="stats" />
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niravprajapati1&" alt="aakarshteja_stats"/>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Aakarsh Teja Profile visits" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
 
 ### Projects 💪
 
 <!--START_SECTION:data-section-->
 
-<table width="100%"><tr><td align="center"><a href="https://github.com/AakarshTeja/AakarshTeja">1.Nirav Prajapati</a> </td></tr></table>
+<table width="100%"><tr><td align="center"><a href="https://github.com/Niravprajapati1/Niravprajapati1">1.Nirav Prajapati</a> </td></tr>
+<tr><td align="center"><a href="https://github.com/Niravprajapati1/News-website">- News Website</a> </td></tr>
+<tr><td align="center"><a href="https://github.com/Niravprajapati1/quiz-app">- Quiz-app</a> </td></tr>
+<tr><td align="center"><a href="https://github.com/Niravprajapati1/GuessNumberGame">- Guess the Number -game</a> </td></tr></table>
 
 <!--END_SECTION:data-section-->
