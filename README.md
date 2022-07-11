@@ -1,0 +1,55 @@
+### Hello My Dear Developers 👋
+
+__I am *Nirav Prajapati* from india. I am very much interested in contributing for open source. And my career interest is Web-dev ans cloud . Always there to help others and to clarify the doubts you have.__
+
+### My Skills 🚀
+
+![Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
+
+![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+
+![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+
+![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
+
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+
+![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+
+### About Me🤓
+
+- 🔭 I’m currently working on Web Based Projects in Javascript.
+
+- 🌱 I’m currently learning Java and dsa from kunal kushwaha .
+
+- 🏫  Want to learn more about cloud computing.
+
+- 📫 You can reach me at: <a href="mailto: niravprajapati97120@gmail.com">E-mail</a>
+
+### Connect With Me 🤝🤝
+
+[<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Nirav97120)
+
+### Stats 📊
+
+<p align="center"> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niravprajapati1&show_icons=true" alt="NiravPrajapati_stats" /> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="aakarshteja_stats" />
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niravprajapati1&" alt="aakarshteja_stats"/>
+
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Aakarsh Teja Profile visits" /></p>
+
+### Projects 💪
+
+<!--START_SECTION:data-section-->
+
+<table width="100%"><tr><td align="center"><a href="https://github.com/AakarshTeja/AakarshTeja">1.Nirav Prajapati</a> </td></tr></table>
+
+<!--END_SECTION:data-section-->
