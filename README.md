@@ -40,15 +40,16 @@ __I am *Nirav Prajapati* from india. I am very much interested in contributing f
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niravprajapati1&" alt="aakarshteja_stats"/>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
 
 ### Projects 💪
 
 <!--START_SECTION:data-section-->
 
-<table width="100%"><tr><td align="center"><a href="https://github.com/Niravprajapati1/Niravprajapati1">1.Nirav Prajapati</a> </td></tr>
-<tr><td align="center"><a href="https://github.com/Niravprajapati1/News-website">- News Website</a> </td></tr>
-<tr><td align="center"><a href="https://github.com/Niravprajapati1/quiz-app">- Quiz-app</a> </td></tr>
-<tr><td align="center"><a href="https://github.com/Niravprajapati1/GuessNumberGame">- Guess the Number -game</a> </td></tr></table>
+<table width="100%">
+<tr><td align="center"><a href="https://github.com/Niravprajapati1/Niravprajapati1">1. Nirav Prajapati</a> </td></tr>
+<tr><td align="center"><a href="https://github.com/Niravprajapati1/News-website">2. News Website</a> </td></tr>
+<tr><td align="center"><a href="https://github.com/Niravprajapati1/quiz-app">3. Quiz-app</a> </td></tr>
+<tr><td align="center"><a href="https://github.com/Niravprajapati1/GuessNumberGame">4. Guess the Number -game</a> </td></tr></table>
 
 <!--END_SECTION:data-section-->
