@@ -31,7 +31,7 @@ __I am *Nirav Prajapati* from india. I am very much interested in contributing t
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=Niravprajapati1&theme=react-dark&hide_border=true&area=true" alt="Nirav_stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
 
-### Projects 💪
+### Projects 🌟
 
 <!--START_SECTION:data-section-->
 
