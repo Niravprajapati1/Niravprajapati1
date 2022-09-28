@@ -1,6 +1,6 @@
-### Hello My Dear Developers 👋
+### ***Hello Awesome Developers 👋***
 
-__I am *Nirav Prajapati* from india. I am very much interested in contributing to open source. And my career interests are Web-dev and cloud . Always there to help others and to clarify the doubts you have.__
+__I am *Nirav Prajapati* from india. I love contributing to open source and intercting with people. And my career interests are Web-dev and cloud-computing. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
 
@@ -10,7 +10,7 @@ __I am *Nirav Prajapati* from india. I am very much interested in contributing t
 
 - 🔭 I’m currently working on Web Based Projects in Javascript.
 
-- 🌱 I’m currently learning Java and dsa from kunal kushwaha .
+- 🌱 I’m currently learning Java and dsa.
 
 - 🏫  Want to learn more about cloud computing.
 
