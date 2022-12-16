@@ -42,3 +42,4 @@ __I am *Nirav Prajapati* from india. I love contributing to open source and inte
 <tr><td align="center"><a href="https://github.com/Niravprajapati1/GuessNumberGame">4. Guess the Number -game</a> </td></tr></table>
 
 <!--END_SECTION:data-section-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
