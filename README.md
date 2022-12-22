@@ -28,7 +28,6 @@ __I am *Nirav Prajapati* from india. I love contributing to open source and inte
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="stats" />
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niravprajapati1&" alt="Nirav_stats"/>
-<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=Niravprajapati1&theme=react-dark&hide_border=true&area=true" alt="Nirav_stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
 
 ### Projects 🌟
