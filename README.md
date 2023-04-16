@@ -24,10 +24,11 @@ __I am *Nirav Prajapati* from india. I love contributing to open source and inte
 ### Stats 📊
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niravprajapati1&show_icons=true" alt="NiravPrajapati_stats" /> 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Niravprajapati1" alt="Nirav Prajapati" /></a> </p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="stats" />
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niravprajapati1&layout=compact" alt="stats" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravprajapati1" alt="Profile visits" /></p>
-
+-->
 ### Projects 🌟
 
 <!--START_SECTION:data-section-->
